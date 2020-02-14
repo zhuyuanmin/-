@@ -1,4 +1,4 @@
-## javascript中声明函数常用的方法有两种：函数声明式和函数表达式.
+## javascript中函数声明的区别
 
 ### 一、定义
 下面分别用两种方法定义函数：
@@ -6,7 +6,7 @@
 ```javascript
 //函数声明式
 function greeting(){
-      console.log("hello world");  
+    console.log("hello world");  
 }
 
 //函数表达式
